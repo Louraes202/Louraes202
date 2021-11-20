@@ -1,5 +1,15 @@
 # Welcome to my profile!
 
+## Info
+
+- Hello! Im Lourães.
+  I'm a computer systems management and programming student, and I'm also a developer.
+  At my free times, I also like to invest on music production.
+  I've been involved in programming for about 5 years now, and I still love it. Every step I walk I get more excited to create new things.
+  As shown in the GitHub description, my goal is to create things that are both innovative and useful.
+  At this moment, I have some amazing projects that you can check on my website.
+
+## Profile Stats
 <div>
   <a href="https://github.com/Louraes202">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Louraes202&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
