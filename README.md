@@ -1,6 +1,6 @@
 ### Hello! Im Martin, also known as Lourães, and I am a young developer!
 #### I deleted all my old repos in 06/07/2023, so I could start all over again 😸 
-My contributions of 2020, 2021, 2022 and 2023 dissapeared with this reset.
+ps: My contributions of 2020, 2021, 2022 and 2023 dissapeared with this reset.
 
 
 <div align="center">
